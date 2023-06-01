@@ -1,0 +1,4 @@
+.chart_map_allign{
+    display: flex;
+    flex-direction: column;
+}
